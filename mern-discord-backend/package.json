@@ -1,0 +1,15 @@
+{
+  "name": "mern-discord-backend",
+  "version": "1.0.0",
+  "description": "Mern-Discord-backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "node start"
+  },
+  "author": "Patrick Wehbe",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongoose": "^5.10.9"
+  }
+}
